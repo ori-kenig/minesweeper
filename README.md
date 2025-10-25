@@ -1,2 +1,2 @@
-# minesweeper game in pyrhon
+# minesweeper game in python
 
