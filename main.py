@@ -1,4 +1,4 @@
-# Ori kenigsbuch 206594590
+# Ori kenigsbuch
 import random
 import tkinter as tk
 from tkinter import messagebox
@@ -93,3 +93,4 @@ if __name__ == "__main__":
     root.title("Minesweeper")
     game = Minesweeper(root, size=s, bomb_count=b)
     root.mainloop()
+
